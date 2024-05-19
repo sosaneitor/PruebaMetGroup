@@ -1,0 +1,5 @@
+{
+    "extension": ["mjs"],
+    "spec": "test/**/*.mjs"
+  }
+  
